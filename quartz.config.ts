@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "Gizmogo/Gizmogo-Documentation",
+    baseUrl: "gizmogo.github.io/Gizmogo-Documentation",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
