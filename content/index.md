@@ -1,7 +1,3 @@
----
-title: Gizmogo Documentation
----
-
 # 👋 Welcome to Gizmogo Documentation
 
 > [!info] About this Vault
@@ -9,6 +5,7 @@ title: Gizmogo Documentation
 > Use this as your **single source of truth** for procedures, workflows, and standards.  
 
 ## 🚀 Quick Navigation
+%%Might remove this as it becomes obsolete%%
 
 > [!tip] Start Here  
 > 📂 [[Procedure Index]] → Step-by-step testing guides  
@@ -17,6 +14,7 @@ title: Gizmogo Documentation
 > 📂 [[Reference Index]] → Terminology & supporting info  
 
 ## 🛠 Technician Essentials
+
 
 > [!todo] Procedures  
 > - [[Check For MDM]]  
@@ -29,18 +27,19 @@ title: Gizmogo Documentation
 ## 📊 Condition Standards
 
 > [!abstract] Device Conditions  
-> - [[Camera Standards]]  
-> - [[Drone Standards]]
-> - [[E-Reader Standards]]
-> - [[Game Consoles Standards]]
-> - [[Headphone Standards]]
-> - [[Laptop Standards]]
-> - [[Lenses Standards]]
-> - [[Macs Standards]]
-> - [[Media player Standards]]
-> - [[Phones & Tablets Standards]]
-> - [[Smartwatch Standards]]
-> - [[Speaker Standards]]
+> - [[Device Conditions#Phones & Tablets|Phones & Tablets]]
+> - [[Device Conditions#Laptops|Laptops]]
+> - [[Device Conditions#Macs|Macs]]
+> - [[Device Conditions#Game Consoles|Game Consoles]]
+> - [[Device Conditions#Cameras|Cameras]]
+> - [[Device Conditions#Lenses|Lenses]]
+> - [[Device Conditions#Drones|Drones]]
+> - [[Device Conditions#Smartwatches|Smartwatches]]
+> - [[Device Conditions#iPods|iPods]]
+> - [[Device Conditions#Mediaplayers|Media Players]]
+> - [[Device Conditions#Headphones|Headphones]]
+> - [[Device Conditions#Speakers|Speakers]]
+> - [[Device Conditions#E-Readers|E-Readers]]
 
 > [!success] Grading Levels  
 >- [[Grading Standards#Grade A|Grade A]]

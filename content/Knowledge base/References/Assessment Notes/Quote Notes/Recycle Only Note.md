@@ -15,5 +15,7 @@ The best course of action would be to recycle the device. Recycling allows us to
 ```
 The device does not power on and shows no signs of activity when connected to power or when power controls are engaged. As a result, functional testing could not be performed, and the internal condition of the unit could not be assessed. Due to its non-responsive state and inability to verify operation, the device is considered non-functional and can only be processed for recycling.
 ```
+## Unable to Determine
+```
 
-## 
+```
