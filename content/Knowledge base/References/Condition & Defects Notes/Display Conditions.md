@@ -8,6 +8,10 @@ tags:
 ```
 the device’s glass panel is cracked, though the LCD remains fully functional.
 ```
+## Cracked LCD
+```
+The LCD panel is cracked and no longer functions, preventing the display from producing a usable image.
+```
 ## Backlight Bleed
 ```
 the display contains noticeable backlight bleed, resulting in uneven brightness and light leakage along portions of the screen. This defect affects overall display quality and visual consistency.
