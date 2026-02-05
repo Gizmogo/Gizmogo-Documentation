@@ -6,27 +6,43 @@
 
 ## 🚀 Quick Navigation
 %%Might remove this as it becomes obsolete%%
-
 > [!tip] Start Here  
 > 📂 [[Procedure Index]] → Step-by-step testing guides  
 > 📂 [[Workflow Index]] → Full device workflows  
 > 📂 [[Condition Index]] → Grading & condition reference  
 > 📂 [[Reference Index]] → Terminology & supporting info  
 
-## 🛠 Technician Essentials
-
+## 🛠 Testing Procedures
 
 > [!todo] Procedures  
-> - [[Check For MDM]]  
-> - [[CPU & GPU Stressing]]  
-> - [[Laptop Battery Recalibration]]
-> - [[Reset Windows Laptops]]
-> - [[Windows 11 Image build]]
-> - [[Procedure Index]] → *(see all)*  
+> - [[Smartwatch Testing Procedures|Smartwatches]]
+> - 
+
+## 📑Note Templates
+
+>[!example] Templates
+>#### Default
+>- [[Standard Details]]
+>#### Apple Devices
+>- [[AirPods Details|AirPods]]
+>- [[AppleWatch Details|Apple Watches]]
+>- [[iMac Details|iMacs]]
+>- [[Mac Details|Mac, Mac Pro, & Mac Mini]]
+>- [[MacBook Details|MacBooks]]
+>#### Computers
+>- [[AIO Details|AIOs]]
+>- [[Desktop Details|Desktops]]
+>- [[Game Console Details|Game Consoles]]
+>- [[Laptop Details|Laptops]]
+>- [[Tablet Details|Tablets]]
+>#### Others
+>- [[Camera Details|Cameras]]
+>- [[Handheld Details|Handhelds]]
+>- [[SmartWatch Details|Smartwatches]]
 
 ## 📊 Condition Standards
 
-> [!abstract] Device Conditions  
+> [!summary] Device Conditions  
 > - [[Device Conditions#Phones & Tablets|Phones & Tablets]]
 > - [[Device Conditions#Laptops|Laptops]]
 > - [[Device Conditions#Macs|Macs]]
@@ -53,7 +69,3 @@
 > - [[Templates]] → Standard note templates  
 > - [[References]] → External references & terminology  
 
----
-
-✅ **Tip:** Use `Ctrl + O` (or `Cmd + O` on Mac) to **jump to any note instantly**.  
-📝 Remember: This is a **living system** → if you see missing info, add it!  

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 This is an area used for testing different formats to be used in obsidian
 ## Diagrams
 

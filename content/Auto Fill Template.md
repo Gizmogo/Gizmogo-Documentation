@@ -1,4 +1,5 @@
 ---
+draft: true
 tags:
   - Template
 ---
@@ -17,7 +18,7 @@ Drive health: machine.machine.storage.[0].smart_log.ssd_lifetime_remaining
 [CONDITION]
 Grade: 
 Cosmetics: 
-BIOS Lock: 
+BIOS/Firmware Lock: 
 MDM Enrollment: 
 
 [TESTS]
@@ -60,7 +61,7 @@ Drive health: machine.machine.storage.[1].smart_log.ssd_lifetime_remaining
 [CONDITION]
 Grade: 
 Cosmetics: 
-BIOS Lock: 
+Firmware Lock: 
 MDM Enrollment: 
 Activation Lock:
 

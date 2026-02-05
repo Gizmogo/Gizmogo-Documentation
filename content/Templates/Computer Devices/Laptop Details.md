@@ -2,9 +2,11 @@
 tags:
   - Template
   - Computer
+aliases:
+  - Chromebook Details
 ---
 
-## Template
+## Standard Template
 
 ```
 [DETAILS]
@@ -47,12 +49,42 @@ WipeOS note:
 
 ```
 
-![[Auto Fill Template#Common Laptops Reference]]
+## Chromebook
 
-## MDM Devices Detail Addon
 ```
-Remote management detected
-Organization: 
-Deployment Profile: 
-Assigned user: 
+[DETAILS]
+Model: 
+Part Number: 
+Device S/N: 
+Motherboard S/N: 
+Battery health: 
+Drive health: 
+
+[CONDITION]
+Grade: 
+Cosmetics: 
+BIOS Lock: 
+
+[TESTS]
+CPU: 
+Motherboard: 
+Memory: 
+Drives: 
+Ethernet: 
+Wi-Fi: 
+Keyboard: 
+Display: 
+Battery: 
+Microphone: 
+Speakers: 
+Webcam: 
+USBs: 
+
+[NOTE]
+
+
+[QUOTE]
+
+
 ```
+

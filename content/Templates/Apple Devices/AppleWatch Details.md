@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#Apple"
   - "#Template"
+  - Apple
 ---
 
 ![[SmartWatch Details#Apple Watches]]

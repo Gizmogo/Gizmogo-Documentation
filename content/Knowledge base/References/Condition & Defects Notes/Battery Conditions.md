@@ -2,6 +2,7 @@
 tags:
   - Defects
 ---
+
 >[!Note]
 Below is a list of notes for common battery conditions and defects found on devices with batteries
 ## Good Health
