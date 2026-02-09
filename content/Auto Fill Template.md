@@ -5,7 +5,6 @@ tags:
 ---
 
 ## Common Laptops Reference
----
 
 ```
 [DETAILS]

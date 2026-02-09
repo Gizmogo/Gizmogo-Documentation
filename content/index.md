@@ -9,7 +9,7 @@ title: Home
 
 ## 📊 Condition Standards
 
-> [!book-open-check] Device Conditions  
+> [!abstract] Device Conditions  
 > - [[Device Conditions#Phones & Tablets|Phones & Tablets]]
 > - [[Device Conditions#Laptops|Laptops]]
 > - [[Device Conditions#Macs|Macs]]
@@ -33,7 +33,7 @@ title: Home
 
 ## 🛠 Testing Procedures
 
-> [!hard-hat] Procedures  
+> [!warning] Procedures  
 > - [[Smartwatch Testing Procedures|Smartwatches]]
 > - 
 
@@ -61,7 +61,7 @@ title: Home
 
 ## 🧭 Extra Resources
 
->[!link] Resources
+>[!tip] Resources
 >- [[WipeOS Workflow]]
 >- [[Apple Boot keys]]
 >- [[Bios & Boot Menu Keys]]
