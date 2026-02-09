@@ -1,4 +1,0 @@
----
-tags:
----
-[[Smartwatch Testing Procedures]]
