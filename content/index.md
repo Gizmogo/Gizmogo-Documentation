@@ -34,8 +34,8 @@ title: Home
 ## 🛠 Testing Procedures
 
 > [!warning] Procedures  
-> - [[Smartwatch SOP|Smartwatches]]
-> - 
+> - [[Headphone & Earbuds SOP]]
+> - [[Smartwatch SOP]]
 
 ## 📑Note Templates
 
