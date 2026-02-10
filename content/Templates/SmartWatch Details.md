@@ -33,7 +33,7 @@ Display:
 ```
 
 >[!question] Testing
->Navigate to the Apple Watch section of the [[Smartwatch Testing Procedures#🍎 Apple Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
+>Navigate to the Apple Watch section of the [[Smartwatch SOP#🍎 Apple Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
 
 ## Samsung Galaxy Watches
 ```
@@ -59,7 +59,7 @@ Display:
 ```
 
 >[!question] Testing
->Navigate to the Samsung Watch section of the [[Smartwatch Testing Procedures#📱 Samsung Galaxy Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
+>Navigate to the Samsung Watch section of the [[Smartwatch SOP#📱 Samsung Galaxy Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
 
 ## Garmin Watches
 ```
@@ -80,7 +80,7 @@ Display:
 ```
 
 >[!question] Testing
->Navigate to the Garmin Watch section of the [[Smartwatch Testing Procedures#🏃 Garmin Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
+>Navigate to the Garmin Watch section of the [[Smartwatch SOP#🏃 Garmin Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
 
 ## Pixel Watches
 ```

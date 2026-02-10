@@ -34,7 +34,7 @@ title: Home
 ## 🛠 Testing Procedures
 
 > [!warning] Procedures  
-> - [[Smartwatch Testing Procedures|Smartwatches]]
+> - [[Smartwatch SOP|Smartwatches]]
 > - 
 
 ## 📑Note Templates
