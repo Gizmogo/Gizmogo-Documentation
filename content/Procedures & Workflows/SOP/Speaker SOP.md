@@ -1,4 +1,6 @@
-# SOP: Testing Speakers, Smart Speakers & Audio Devices
+---
+draft: true
+---
 
 > **Purpose**  
 > Establish a standardized, repeatable process for testing speakers, smart speakers, and related audio devices to ensure accurate grading, quality control, and consistent customer outcomes.
@@ -11,7 +13,7 @@
 
 ---
 
-## 1. Pre‑Test Preparation
+## 1. 📋Pre‑Test Preparation
 
 > [!info] Required Environment
 > - Quiet testing area (minimal background noise)
@@ -36,7 +38,7 @@
 > [!warning] Intake Failure Rule
 > If the device shows **physical damage affecting functionality**, skip testing and flag as **Non‑Functional / As‑Is**.
 
-## 2. Physical Inspection
+## 2. 🔎 Physical Inspection
 
 ### 2.1 Exterior Condition
 - Check speaker grille for dents or tears
@@ -52,7 +54,7 @@
 - Confirm power indicator lights
 - Power cycle device twice
 
-## 3. Basic Audio Function Test
+## 3. 🔊 Basic Audio Function Test
 
 ### 3.1 Wired Audio Test (If Applicable)
 - Connect via AUX / line‑in
@@ -70,7 +72,7 @@
 > [!failure]
 > Dropouts, static, or pairing failures = **Audio Defect**.
 
-## 4. Smart Speaker / Voice Assistant Test
+## 4. 🗣️ Smart Speaker / Voice Assistant Test
 
 ### 4.1 Initial Setup
 - Factory reset device
@@ -100,7 +102,7 @@ Verify:
 > [!warning]
 > If the device **cannot connect to Wi‑Fi**, downgrade to **Smart Features Not Working**.
 
-## 5. Sound Quality Evaluation
+## 5. 🎚️ Sound Quality Evaluation
 
 ### 5.1 Frequency Test
 Play test tones and verify:
@@ -115,7 +117,7 @@ Play test tones and verify:
 > [!failure]
 > Any shutdowns, distortion, or speaker cut‑outs = **Fail**.
 
-## 6. Controls & Connectivity
+## 6. 🎛️ Controls & Connectivity
 
 ### 6.1 Physical Controls
 - Power
@@ -126,7 +128,7 @@ Play test tones and verify:
 - Test all major functions
 - Verify responsiveness < 1 second delay
 
-## 7. Reset & Data Removal
+## 7.  Reset & Data Removal
 
 > [!important]
 > All smart devices **must be factory reset** after testing.
@@ -139,7 +141,7 @@ Steps:
 ## 8. Grading & Classification
 
 ### 8.1 Functional Grades
-![[Device Conditions#Speakers]]
+![[Device Conditions#🔊 Speakers]]
 
 ### 8.2 Common Downgrade Reasons
 - Distorted audio
