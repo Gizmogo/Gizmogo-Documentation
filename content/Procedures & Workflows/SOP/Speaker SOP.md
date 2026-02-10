@@ -128,7 +128,7 @@ Play test tones and verify:
 - Test all major functions
 - Verify responsiveness < 1 second delay
 
-## 7.  Reset & Data Removal
+## 7. 💽 Reset & Data Removal
 
 > [!important]
 > All smart devices **must be factory reset** after testing.
@@ -138,7 +138,7 @@ Steps:
 2. Perform factory reset
 3. Confirm reset by re‑entering setup mode
 
-## 8. Grading & Classification
+## 8. 📋 Grading & Classification
 
 ### 8.1 Functional Grades
 ![[Device Conditions#🔊 Speakers]]
@@ -149,7 +149,7 @@ Steps:
 - Wi‑Fi instability
 - Non‑responsive buttons
 
-## 9. Documentation & Reporting
+## 9. 📝 Documentation & Reporting
 
 - Record test results in QA system
 - Attach photos of damage (if any)
@@ -158,7 +158,7 @@ Steps:
 > [!success]
 > Device is approved only if **all required tests pass**.
 
-## 10. Safety & Handling
+## 10. 🦺 Safety & Handling
 
 - Never open sealed speaker enclosures
 - Avoid liquid exposure

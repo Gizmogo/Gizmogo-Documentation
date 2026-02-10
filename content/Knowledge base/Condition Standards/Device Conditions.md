@@ -4,7 +4,7 @@ tags:
   - Standards
 ---
 
-# 📱 Phones & Tablets
+# Phones & Tablets
 
 ## Brand New:
 - Factory sealed in original box
@@ -39,7 +39,7 @@ tags:
  - Won’t connect to SIM/Wi -Fi/Bluetooth OR won’t power on
  - Battery health below 80%
  
-# 💻 Laptops
+# Laptops
 
 ## Brand New:
  - Factory sealed in original box
@@ -79,7 +79,7 @@ tags:
  - Severe frame damage or overheating issues
  - Battery health below 70%
  
-# 💻 Macs
+# Macs
 
 ## Brand New:
  - Factory sealed in original Apple box
@@ -116,7 +116,7 @@ tags:
  - Won’t boot, display, or function properly
  - Water damage, severe dents, or broken glass
  
-# 🎮 Game Consoles
+# Game Consoles
 
 ## Brand New:
  - Factory sealed in original box
@@ -154,7 +154,7 @@ tags:
  - Missing key components (controllers, hard drive, power supply)
  - Water damage or severe physical damage
  
-# 📷 Cameras
+# Cameras
 
 ## Brand New:
  - Factory sealed in original box
@@ -188,7 +188,7 @@ tags:
  - Missing parts (battery, lens cap, memory card door, etc.)
  - Water damage, sensor issues, or camera won’t power on
  
-# 🔭 Lenses
+# Lenses
 
 ## Brand New:
  - Factory sealed in original box
@@ -222,7 +222,7 @@ tags:
  - Severe internal dust, haze, or fungus
  - Water damage or lens won’t focus/take sharp images
  
-# 🚁 Drones
+# Drones
 
 ## Brand New:
  - Factory sealed in original box
@@ -258,37 +258,37 @@ tags:
  - Flight instability, lost GPS, or connection failure
  - Water damage or missing major parts (remote, battery, camera)
  
-# ⌚ Smartwatches
+# Smartwatches
 
-## 🍎 Apple
+## Apple
 
-## Brand New:
+### Brand New:
  - Factory sealed in original Apple box
  - Never activated or paired
  - Includes all original accessories (band, charger, manuals)
  - No cosmetic or functional issues
  
-## Like New:
+### Like New:
  - Looks flawless — no scratches, dents, or scuffs
  - Screen crystal clear — no cracks or dead pixels
  - All sensors, buttons, speakers, and touch functions work perfectly
  - Fully functional
  - Battery health 95%+
  
-## Good:
+### Good:
  - Light cosmetic wear (small scuffs or faint marks)
  - Screen and body in great shape — no cracks or major blemishes
  - Fully functional
  - Battery health 85%+
  
-## Fair:
+### Fair:
  - Noticeable wear (scratches, dings, or worn band)
  - Screen lights up and works, but may have small marks or edge wear
  - All essential features work (touch, Bluetooth, heart rate, etc.)
  - Fully functional
  - Battery health 80%+
  
-## Damaged:
+### Damaged:
  - Cracked or unresponsive screen
  - Sensors, touchscreen, or buttons not working properly
  - Won’t power on, charge, or connect
@@ -296,39 +296,39 @@ tags:
  - Water damage or swollen battery
  - Battery health below 80%
  
-## 🤖 Other Smartwatches
+## Other Smartwatches
 
-## Brand New:
+### Brand New:
  - Factory sealed in original box
  - Never activated or paired
  - Includes all original accessories (band, charger, manuals)
  - No cosmetic or functional issues
  
-## Like New:
+### Like New:
  - Looks flawless — no scratches, dents, or scuffs
  - Screen clear and bright — no cracks or dead pixels
  - All sensors, buttons, and touch functions work perfectly
  - Fully functional
  
-## Good:
+### Good:
  - Light cosmetic wear (small scuffs or faint marks, not visible from 8" away)
  - Screen and body in great shape — no cracks or major blemishes
  - Fully functional
  
-## Fair:
+### Fair:
  - Noticeable wear (scratches, dings, or worn band)
  - Screen lights up and works, but may have small marks or edge wear
  - All essential features work (touch, Bluetooth, heart rate, etc.)
  - Fully functional
  
-## Damaged:
+### Damaged:
  - Cracked or unresponsive screen
  - Sensors, touchscreen, or buttons not working properly
  - Won’t power on, charge, or connect
  - Missing band or charger
  - Water damage or swollen battery
  
-# 🎶 iPods
+# iPods
 
 ## Brand New:
  - Factory sealed in original Apple box
@@ -363,7 +363,7 @@ tags:
  - Missing parts or severe damage
  - Water damage
  
-# 🎵 Mediaplayers
+# Mediaplayers
 
 ## Brand New:
  - Factory sealed in original box
@@ -398,7 +398,7 @@ tags:
  - Missing parts or severe damage
  - Water damage
  
-# 🎧 Headphones
+# Headphones
 
 ## Brand New:
  - Factory sealed in original box
@@ -433,7 +433,7 @@ tags:
  - Missing parts (ear tips, case, cable, etc.)
  - Water damage
  
-# 🔊 Speakers
+# Speakers
 
 ## Brand New:
  - Factory sealed in original box
@@ -468,7 +468,7 @@ tags:
  - Missing parts (charging cable, cover, etc.)
  - Water damage or severe physical damage
  
-# 📔 E -Readers
+# E-Readers
 
 ## Brand New:
  - Factory sealed in original box

@@ -8,7 +8,7 @@ aliases:
   - Touchscreen
   - Mouse
 ---
-**# Keyboard
+
 ## Broken Switches
 ```
 The unit has one or more broken key switches, affecting keyboard functionality and requiring repair or replacement to restore proper operation.

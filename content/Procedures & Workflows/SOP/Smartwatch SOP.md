@@ -1,3 +1,6 @@
+---
+draft: false
+---
 
 > [!info]
 > **Purpose**: This SOP defines a standardized process for testing smartwatches to ensure consistent evaluation of functionality, condition, and resale or recycling eligibility.
@@ -93,11 +96,11 @@ Test and confirm the following:
 > [!success]
 > Device is now cleared and ready for fulfillment or next processing step.
 
-## 📝 Documentation & Disposition
+## 📝 Documentation
 
 - Record test results in internal system.
 - Assign final condition grade.
 
 >[!info]
-> Utilize standard [[Device Conditions#⌚ Smartwatches|Device Conditions]] for grading
+> Utilize standard [[Device Conditions#Smartwatches|Device Conditions]] for grading
 
