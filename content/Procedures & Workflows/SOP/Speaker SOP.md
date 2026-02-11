@@ -1,21 +1,22 @@
 ---
-draft: true
+draft: false
 ---
 
-> **Purpose**  
-> Establish a standardized, repeatable process for testing speakers, smart speakers, and related audio devices to ensure accurate grading, quality control, and consistent customer outcomes.
+> **Purpose**:
+> Standardized process for testing speakers, smart speakers, and related audio devices to ensure accurate grading, quality control, and consistent customer outcomes.
 
-> **Scope**  
+> **Scope**:
 > Applies to all wired speakers, Bluetooth speakers, smart speakers, soundbars, and voice‑assistant–enabled audio devices.
 
-> **Audience**  
+> **Audience**:
 > QA technicians, warehouse staff, refurb/testing teams.
 
----
+> [!note]
+> This procedure is intended for **post-receipt testing** and does not cover customer-facing intake steps.
 
 ## 1. 📋Pre‑Test Preparation
 
-> [!info] Required Environment
+> [!hint] Required Environment
 > - Quiet testing area (minimal background noise)
 > - Stable Wi‑Fi network (2.4 GHz & 5 GHz available)
 > - Clean power source and surge protection
@@ -128,7 +129,7 @@ Play test tones and verify:
 - Test all major functions
 - Verify responsiveness < 1 second delay
 
-## 7. 💽 Reset & Data Removal
+## 7. 🔁 Reset & Data Removal
 
 > [!important]
 > All smart devices **must be factory reset** after testing.
@@ -141,7 +142,7 @@ Steps:
 ## 8. 📋 Grading & Classification
 
 ### 8.1 Functional Grades
-![[Device Conditions#🔊 Speakers]]
+![[Device Conditions#Speakers]]
 
 ### 8.2 Common Downgrade Reasons
 - Distorted audio

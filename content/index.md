@@ -36,6 +36,7 @@ title: Home
 > [!warning] Procedures  
 > - [[Headphone & Earbuds SOP]]
 > - [[Smartwatch SOP]]
+> - [[Speaker SOP]]
 
 ## 📑Note Templates
 

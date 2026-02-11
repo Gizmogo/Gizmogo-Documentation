@@ -2,12 +2,14 @@
 draft: false
 ---
 
->[!info]
->**Purpose:** This SOP defines the standardized process for testing **headphones and earbuds** for audio quality, functionality, comfort, and overall performance. It ensures reliable comparisons across devices and minimizes tester bias.
+> **Purpose**:
+> Standardized process for testing **headphones and earbuds** for audio quality, functionality, comfort, and overall performance.
 
-## 📌 Scope
+> **Scope**:
+> Applies to **wired, wireless, over-ear, on-ear, and in-ear devices** received for inspection and testing unless otherwise specified.
 
-This SOP applies to **wired, wireless, over-ear, on-ear, and in-ear devices** unless otherwise specified.
+> **Audience**:
+> QA technicians, warehouse staff, refurb/testing teams.
 
 > [!note]
 > This procedure is intended for **post-receipt testing** and does not cover customer-facing intake steps.
@@ -36,7 +38,7 @@ This SOP applies to **wired, wireless, over-ear, on-ear, and in-ear devices** un
 ## 📥 Receiving Device
 - Scan Device ID into System Admin Page.
 - Associate Device.
-- Ensure physical device matches stated device, adjust model if necessary.
+- Verify model & brand
 - Copy [[Standard Details]] into note section for documentation as you proceed with testing.
 - Use [[AirPods Details]] for apple devices.
 

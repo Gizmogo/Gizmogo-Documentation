@@ -2,12 +2,14 @@
 draft: false
 ---
 
-> [!info]
-> **Purpose**: This SOP defines a standardized process for testing smartwatches to ensure consistent evaluation of functionality, condition, and resale or recycling eligibility.
+> **Purpose**:
+> Standardized process for testing smartwatches to ensure consistent evaluation of functionality, condition, and resale or recycling eligibility.
 
-## 📌 Scope
+> **Scope**:
+> Applies to all smartwatches received for inspection and testing, including but not limited to Apple Watch, Samsung Galaxy Watch, Google Pixel Watch, and other wearable devices.
 
-This SOP applies to all smartwatches received for inspection and testing, including but not limited to Apple Watch, Samsung Galaxy Watch, Google Pixel Watch, and other wearable devices.
+> **Audience**  
+> QA technicians, warehouse staff, refurb/testing teams.
 
 > [!note]
 > This procedure is intended for **post-receipt testing** and does not cover customer-facing intake steps.
@@ -27,7 +29,7 @@ This SOP applies to all smartwatches received for inspection and testing, includ
 ## 📥 Receiving Device
 - Scan Device ID into System Admin Page
 - Associate Device
-- Ensure physical device matches stated device, adjust model if necessary
+- Verify model & brand
 - Copy [[SmartWatch Details]] into note section for documentation as you proceed with testing
 
 > [!warning]  
