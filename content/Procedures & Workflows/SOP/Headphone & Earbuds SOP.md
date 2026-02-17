@@ -14,23 +14,17 @@ draft: false
 > [!note]
 > This procedure is intended for **post-receipt testing** and does not cover customer-facing intake steps.
 
-## 🧰 Required Equipment & Environment
-
-### Testing Equipment
+## 🧰 Tools & Equipment
 
 - Test device (smartphone, tablet, or computer)
 - Reference audio files (lossless preferred: WAV/FLAC)
 - Streaming apps (Spotify, YouTube, Apple Music)
 - Charging cable / power source
 
-> [!tip]
-> Use the **same source device and volume level** for all tests to maintain consistency.
-
-### Test Environment
-
-- Quiet room with minimal ambient noise.
-- Seated, relaxed posture.
-- Stable internet connection. (for wireless testing)
+>[!tip] Test Environment
+>- Quiet room with minimal ambient noise.
+>- Seated, relaxed posture.
+>- Stable internet connection. (for wireless testing)
 
 > [!warning]
 > Avoid noisy environments unless explicitly testing noise cancellation or call quality.
@@ -52,11 +46,20 @@ draft: false
 - Confirm charging status.
 - Power on device.
 - Ensure device is sufficiently charged for testing.
-  
+
+> [!failure]
+> If the device does **not power on**, mark as *Power Failure
+
 ## 📲 Pairing & Setup
 
-- Pair with designated test phone.
-- connect with companion app (if applicable)
+- Factory reset the device. (if necessary)
+- Pair with designated test phone or connect with companion app (if applicable)
+- Confirm successful Bluetooth connection. (if applicable)
+- Complete initial setup screens. (if applicable)
+
+> [!tip]
+> Always test devices on a **known-good phone** 
+> Always sign in using **test accounts only**. Never use personal accounts.
 
 ## 🔎 Physical Inspection
 
@@ -64,7 +67,10 @@ draft: false
 - Inspect casing for scratches, dents, or separation
 - Inspect headband and earcups or ear tips
 
-## 🧪 Functional Testing Checklist
+> [!warning]
+> **Severe physical damage** may qualify the device for recycling or damaged evaluation.
+
+## 🎚️ Sound Quality Evaluation
 
 ### Sound Profile Evaluation
 
@@ -108,10 +114,10 @@ Evaluate:
 - Touch or button sensitivity
 - Voice assistant activation
 
-> [!tip]
-> Test controls **without looking** to simulate real-world use.
-
 ## 🔄 Factory Reset (Post‑Test)
+
+> [!important]
+> All smart devices **must be factory reset** after testing.
 
 - Unpair from test phone.
 - Perform a full factory reset. (if applicable)
@@ -122,7 +128,9 @@ Evaluate:
 ## 📝 Documentation
 
 - Record test results in internal system.
+- Log failures with clear notes.
 - Assign final condition grade.
 
 >[!info]
 > Utilize standard [[Device Conditions#Headphones|Device Conditions]] for grading
+

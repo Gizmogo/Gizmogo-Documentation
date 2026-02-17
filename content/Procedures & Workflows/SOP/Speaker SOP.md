@@ -14,14 +14,8 @@ draft: false
 > [!note]
 > This procedure is intended for **post-receipt testing** and does not cover customer-facing intake steps.
 
-## 1. 📋Pre‑Test Preparation
+## 🧰 Tools & Equipment
 
-> [!hint] Required Environment
-> - Quiet testing area (minimal background noise)
-> - Stable Wi‑Fi network (2.4 GHz & 5 GHz available)
-> - Clean power source and surge protection
-
-### 1.1 Tools & Equipment
 - Test smartphone (iOS + Android preferred)
 - Test tablet or laptop
 - Known‑good AUX cable
@@ -30,34 +24,55 @@ draft: false
 - Test audio files (bass, mids, highs, white noise)
 - Voice command test script
 
-### 1.2 Device Intake Check
+> [!hint] Required Environment
+> - Quiet testing area (minimal background noise)
+> - Stable Wi‑Fi network (2.4 GHz & 5 GHz available)
+> - Clean power source and surge protection
+## 📥 Device Intake Check
+
+- Scan Device ID into System Admin Page
+- Associate Device
 - Verify model & brand
-- Record serial number (if available)
 - Inspect packaging contents
 - Confirm accessories included (power cable, remote, etc.)
 
-> [!warning] Intake Failure Rule
-> If the device shows **physical damage affecting functionality**, skip testing and flag as **Non‑Functional / As‑Is**.
+> [!warning]
+> Do not power on devices showing signs of battery swelling or severe liquid damage.
 
-## 2. 🔎 Physical Inspection
+## 🔋 Power Verification
 
-### 2.1 Exterior Condition
+- Plug device into power
+- Confirm power indicator lights
+- Power cycle device twice
+
+> [!failure]
+> If the device does **not power on**, mark as *Power Failure
+
+## 📲 Pairing & Setup
+
+- Factory reset the speaker. (if necessary)
+- Pair with designated test phone or connect with companion app (if applicable)
+- Confirm successful Bluetooth connection. (if applicable)
+- Complete initial setup screens. (if applicable)
+
+> [!important]
+> Always test devices on a **known-good phone** 
+> Always sign in using **test accounts only**. Never use personal accounts.
+
+## 🔎 Physical Inspection
+
+- Record model, size, color, and serial number
 - Check speaker grille for dents or tears
 - Inspect housing for cracks or separation
 - Verify buttons/knobs are present and responsive
 - Check ports for debris or corrosion
 
-> [!tip]
-> Cosmetic wear is acceptable if **audio and smart features function normally**.
+> [!warning]
+> **Severe physical damage** may qualify the device for recycling or damaged evaluation.
+## 🔊 Basic Audio Function Test
 
-### 2.2 Power Verification
-- Plug device into power
-- Confirm power indicator lights
-- Power cycle device twice
+### Wired Audio Test (If Applicable)
 
-## 3. 🔊 Basic Audio Function Test
-
-### 3.1 Wired Audio Test (If Applicable)
 - Connect via AUX / line‑in
 - Play test audio track
 - Verify:
@@ -65,7 +80,8 @@ draft: false
   - Balanced left/right output
   - No crackling at low & high volume
 
-### 3.2 Bluetooth Audio Test
+### Bluetooth Audio Test (If Applicable)
+
 - Pair with test phone
 - Stream music for **at least 2 minutes**
 - Walk 10–15 feet away to test signal stability
@@ -73,17 +89,17 @@ draft: false
 > [!failure]
 > Dropouts, static, or pairing failures = **Audio Defect**.
 
-## 4. 🗣️ Smart Speaker / Voice Assistant Test
+## 🗣️ Smart Speaker / Voice Assistant Test
 
-### 4.1 Initial Setup
-- Factory reset device
+### Initial Setup
+
 - Install required companion app
 - Complete device setup on Wi‑Fi
 
 > [!important]
 > Always sign in using **test accounts only**. Never use personal accounts.
 
-### 4.2 Microphone & Voice Recognition
+### Microphone & Voice Recognition
 Test the following commands:
 - "What time is it?"
 - "Set volume to 50%"
@@ -95,7 +111,7 @@ Verify:
 - Accurate command execution
 - Microphone responsiveness from 6–10 feet
 
-### 4.3 Smart Features Validation
+### Smart Features Validation
 - Wi‑Fi stability (no disconnects)
 - App control responsiveness
 - Multi‑room / casting (if supported)
@@ -103,29 +119,52 @@ Verify:
 > [!warning]
 > If the device **cannot connect to Wi‑Fi**, downgrade to **Smart Features Not Working**.
 
-## 5. 🎚️ Sound Quality Evaluation
+## 🎚️ Sound Quality Evaluation
 
-### 5.1 Frequency Test
-Play test tones and verify:
-- Bass: no rattling or buzzing
-- Midrange: clear vocals
-- Treble: no piercing or distortion
+### Sound Profile Evaluation
 
-### 5.2 Volume Stress Test
-- Increase volume gradually to max
-- Play audio for 60 seconds
+Test using multiple genres:
+- Spoken word / podcast
+- Pop / vocal-focused music
+- Bass-heavy tracks
+- Classical or acoustic music
 
-> [!failure]
-> Any shutdowns, distortion, or speaker cut‑outs = **Fail**.
+Evaluate:
+- Bass (depth, control)
+- Midrange (clarity, vocal presence)
+- Treble (detail, harshness)
+- Soundstage (width, separation)
 
-## 6. 🎛️ Controls & Connectivity
+> [!note]
+> Keep volume at **~60–70%** unless distortion testing is required.
 
-### 6.1 Physical Controls
-- Power
-- Volume up/down
-- Mute / mic off
+### Distortion & Volume Handling
 
-### 6.2 App & Remote Controls (If Applicable)
+1. Gradually increase volume.
+2. Note the point where distortion begins.
+3. Check for channel imbalance or rattling.
+
+> [!danger]
+> Do **not** sustain high volume levels for more than 30 seconds.
+
+## 🎛️ Controls & Connectivity
+
+### Bluetooth Performance (Wireless Only)
+
+- Pairing speed
+- Connection stability
+- Dropouts (static / lag)
+- Range test (line-of-sight, ~10 meters)
+
+### Controls & Responsiveness
+
+- Play/pause accuracy
+- Volume control
+- Touch or button sensitivity
+- Voice assistant activation
+
+### App & Remote Controls (If Applicable)
+
 - Test all major functions
 - Verify responsiveness < 1 second delay
 
@@ -134,34 +173,18 @@ Play test tones and verify:
 > [!important]
 > All smart devices **must be factory reset** after testing.
 
-Steps:
-1. Remove device from test account
-2. Perform factory reset
-3. Confirm reset by re‑entering setup mode
-
-## 8. 📋 Grading & Classification
-
-### 8.1 Functional Grades
-![[Device Conditions#Speakers]]
-
-### 8.2 Common Downgrade Reasons
-- Distorted audio
-- Weak microphone
-- Wi‑Fi instability
-- Non‑responsive buttons
-
-## 9. 📝 Documentation & Reporting
-
-- Record test results in QA system
-- Attach photos of damage (if any)
-- Log failures with clear notes
+- Unpair from test phone.
+- Perform a full factory reset. (if applicable)
 
 > [!success]
-> Device is approved only if **all required tests pass**.
+> Device is now cleared and ready for fulfillment or next processing step.
 
-## 10. 🦺 Safety & Handling
+## 📝 Documentation
 
-- Never open sealed speaker enclosures
-- Avoid liquid exposure
-- Do not test at max volume for extended periods
+- Record test results in internal system.
+- Log failures with clear notes.
+- Assign final condition grade.
+
+>[!info]
+> Utilize standard [[Device Conditions#Speakers|Device Conditions]] for grading
 

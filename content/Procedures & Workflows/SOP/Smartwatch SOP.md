@@ -26,7 +26,8 @@ draft: false
 > [!tip]
 > Always test devices on a **known-good phone** with no active accounts.
 
-## 📥 Receiving Device
+## 📥 Device Intake Check
+
 - Scan Device ID into System Admin Page
 - Associate Device
 - Verify model & brand
@@ -36,6 +37,7 @@ draft: false
 > Do not power on devices showing signs of battery swelling or severe liquid damage.
 
 ## 🔋 Power & Charging Test
+
 - Place the watch on the charger.
 - Confirm charging icon appears.
 - Allow device to power on.
@@ -46,26 +48,28 @@ draft: false
 > If the device does **not power on**, mark as *Power Failure*
 
 ## 📲 Pairing & Setup
+
 - Factory reset the smartwatch. (if necessary)
 - Pair with the designated test phone.
-- Confirm successful Bluetooth connection.
-- Complete initial setup screens.
+- Confirm successful Bluetooth connection. (if applicable)
+- Complete initial setup screens. (if applicable)
 
 > [!important]
 > Ensure **Activation Lock / Google Lock** is fully removed.
 
 ## 🔎 Physical Inspection
+
 -  Record model, size, color, and serial number
 -  Inspect display for cracks, burn-in, or dead pixels
 -  Inspect casing for scratches, dents, or separation
 -  Inspect Side Button for tactile feedback
-- Inspect rotating bezel (if applicable)
+-  Inspect rotating bezel (if applicable)
 -  Inspect band connection and locking mechanism
 
 > [!warning]
 > **Severe physical damage** may qualify the device for recycling or damaged evaluation.
 
-## 🧪 Functional Testing Checklist
+## 🛠️ Functional Testing Checklist
 
 Test and confirm the following:
 

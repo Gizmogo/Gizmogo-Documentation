@@ -2,6 +2,7 @@
 tags:
   - Template
 ---
+
 >[!note]
 >This note detail template should suffice for devices categorized under "Other"/"Unknown" or that are unidentified.
 
