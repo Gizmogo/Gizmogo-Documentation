@@ -34,6 +34,8 @@ title: Home
 ## 🛠 Testing Procedures
 
 > [!warning] Procedures  
+> - [[Cameras & Lenses SOP]]
+> - [[Game Consoles SOP]]
 > - [[Headphone & Earbuds SOP]]
 > - [[Smartwatch SOP]]
 > - [[Speaker SOP]]

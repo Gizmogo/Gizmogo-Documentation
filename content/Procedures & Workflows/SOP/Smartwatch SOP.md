@@ -3,7 +3,7 @@ draft: false
 ---
 
 > **Purpose**:
-> Standardized process for testing smartwatches to ensure consistent evaluation of functionality, condition, and resale or recycling eligibility.
+> To establish a standardized process for testing smartwatches to ensure consistent evaluation of functionality, condition, and resale or recycling eligibility.
 
 > **Scope**:
 > Applies to all smartwatches received for inspection and testing, including but not limited to Apple Watch, Samsung Galaxy Watch, Google Pixel Watch, and other wearable devices.
@@ -105,8 +105,12 @@ Test and confirm the following:
 ## 📝 Documentation
 
 - Record test results in internal system.
+- Log failures with clear notes.
 - Assign final condition grade.
 
 >[!info]
 > Utilize standard [[Device Conditions#Smartwatches|Device Conditions]] for grading
+
+>[!note]
+>Utilize [[SmartWatch Details]] for a template to record test results, documentation, and notes
 

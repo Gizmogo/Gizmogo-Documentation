@@ -3,7 +3,7 @@ draft: false
 ---
 
 > **Purpose**:
-> Standardized process for testing speakers, smart speakers, and related audio devices to ensure accurate grading, quality control, and consistent customer outcomes.
+> To establish a standardized process for testing speakers, smart speakers, and related audio devices to ensure accurate grading, quality control, and consistent customer outcomes.
 
 > **Scope**:
 > Applies to all wired speakers, Bluetooth speakers, smart speakers, soundbars, and voice‑assistant–enabled audio devices.
@@ -46,7 +46,7 @@ draft: false
 - Power cycle device twice
 
 > [!failure]
-> If the device does **not power on**, mark as *Power Failure
+> If the device does **not power on**, mark as *Power Failure*
 
 ## 📲 Pairing & Setup
 
@@ -187,4 +187,7 @@ Evaluate:
 
 >[!info]
 > Utilize standard [[Device Conditions#Speakers|Device Conditions]] for grading
+
+>[!note]
+>Utilize [[Standard Details]] for a template to record test results, documentation, and notes
 

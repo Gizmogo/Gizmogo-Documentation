@@ -3,7 +3,7 @@ draft: false
 ---
 
 > **Purpose**:
-> Standardized process for testing **headphones and earbuds** for audio quality, functionality, comfort, and overall performance.
+> To establish a standardized process for testing **headphones and earbuds** for audio quality, functionality, comfort, and overall performance.
 
 > **Scope**:
 > Applies to **wired, wireless, over-ear, on-ear, and in-ear devices** received for inspection and testing unless otherwise specified.
@@ -48,7 +48,7 @@ draft: false
 - Ensure device is sufficiently charged for testing.
 
 > [!failure]
-> If the device does **not power on**, mark as *Power Failure
+> If the device does **not power on**, mark as *Power Failure*
 
 ## 📲 Pairing & Setup
 
@@ -133,4 +133,7 @@ Evaluate:
 
 >[!info]
 > Utilize standard [[Device Conditions#Headphones|Device Conditions]] for grading
+
+>[!note]
+>Utilize [[Standard Details]] for a template to record test results, documentation, and notes
 
