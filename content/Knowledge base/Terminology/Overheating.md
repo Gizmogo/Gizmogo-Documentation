@@ -1,4 +1,4 @@
-#Defects 
+
 
 ## GPU Overheating
 #### 🚨 Why This Might Be Happening

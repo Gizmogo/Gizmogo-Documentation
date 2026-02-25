@@ -17,3 +17,4 @@ the storage drive contains reallocated and incorrect sectors, suggesting early s
 ```
 the storage drive is performing below average, indicating a potential hardware fault and an increased risk of failure.
 ```
+

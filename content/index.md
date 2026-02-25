@@ -54,11 +54,11 @@ title: Home
 >#### Computers
 >- [[AIO Details|AIOs]]
 >- [[Desktop Details|Desktops]]
->- [[Game Console Details|Game Consoles]]
 >- [[Laptop Details|Laptops]]
 >- [[Tablet Details|Tablets]]
 >#### Others
 >- [[Camera Details|Cameras]]
+>- [[Game Console Details|Game Consoles]]
 >- [[Handheld Details|Handhelds]]
 >- [[SmartWatch Details|Smartwatches]]
 

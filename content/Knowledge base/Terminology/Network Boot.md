@@ -2,6 +2,7 @@
 tags:
   - Terminology
 ---
+
 ## Network Boot (PXE Boot)
 
 Network boot is the process of starting a computer without using a local storage device (like a hard drive or SSD). Instead, the computer loads its operating system or boot image directly from a server over the network.
