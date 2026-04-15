@@ -17,5 +17,5 @@ The device does not power on and shows no signs of activity when connected to po
 ```
 ## Unable to Determine
 ```
-
+The device is of an unknown manufacturer and model, preventing accurate identification and valuation. As a result, the unit cannot be properly assessed and can only be considered for recycling.
 ```

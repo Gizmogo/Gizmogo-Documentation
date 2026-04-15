@@ -22,7 +22,7 @@ the unit was not properly signed out, and Find My remains active. As a result, t
 ```
 ## Factory Reset Protection
 ```
-The Pixel Watch was not properly signed out of before being reset, and it remains associated with a Google account. As a result, the device is locked with Factory Reset Protection (FRP), preventing it from being set up or used by another user. This security measure ensures that only the original account holder can reactivate the device. The last-used PIN/pattern to reactivate the device is required before the watch can be configured and made fully functional again.
+The device was not properly signed out of before being reset, and it remains associated with a Google account. As a result, the device is locked with Factory Reset Protection (FRP), preventing it from being set up or used by another user. This security measure ensures that only the original account holder can reactivate the device. The last-used PIN/pattern to reactivate the device is required before the watch can be configured and made fully functional again.
 ```
 ## Firmware Lock
 ```
