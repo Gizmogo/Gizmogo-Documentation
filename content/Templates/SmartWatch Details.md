@@ -6,7 +6,11 @@ aliases:
   - Galaxy Watch
   - Garmin Watch
   - Apple Watch
+  - Pixel Watch
 ---
+
+>[!question] Testing
+>Navigate to [[Smartwatch SOP]] for a guide on testing the device.
 
 ## Apple Watches
 ```
@@ -32,9 +36,6 @@ Display:
 
 ```
 
->[!question] Testing
->Navigate to the Apple Watch section of the [[Smartwatch SOP#🍎 Apple Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
-
 ## Samsung Galaxy Watches
 ```
 Model: Samsung Galaxy Watch
@@ -58,9 +59,6 @@ Display:
 
 ```
 
->[!question] Testing
->Navigate to the Samsung Watch section of the [[Smartwatch SOP#📱 Samsung Galaxy Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
-
 ## Garmin Watches
 ```
 Model: Garmin
@@ -78,9 +76,6 @@ Display:
 
 
 ```
-
->[!question] Testing
->Navigate to the Garmin Watch section of the [[Smartwatch SOP#🏃 Garmin Watch Testing Procedure|Testing procedures]] for a guide on testing the device.
 
 ## Pixel Watches
 ```
